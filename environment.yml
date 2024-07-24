@@ -1,0 +1,12 @@
+name: short-pass-to-feet
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - requests
+  - matplotlib
+  - jupyter
+  - seaborn
+  - numpy
+  - mplsoccer
+
