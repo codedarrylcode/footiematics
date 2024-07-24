@@ -4,4 +4,4 @@ Inspired by ideas from [Moneyball](https://www.imdb.com/title/tt1210166/) (2011)
 
 ## Analyses
 
-See analysis notebooks [here](https://github.com/codedarrylcode/footiematics/tree/main/notebooks).
+See analysis notebooks [here](https://github.com/codedarrylcode/short-pass-to-feet/tree/main/notebooks).
